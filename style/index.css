@@ -1,0 +1,42 @@
+ul {
+
+margin-top: 0%;
+padding-top: 0%;
+
+}
+h1 {
+  display: inline-block;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 1px;
+    margin-left : 10%;
+  }
+
+body {
+
+background-color: gainsboro;
+
+}
+
+table{
+
+background-color: blueviolet;
+width: 100%;
+
+
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+main{
+
+  margin-bottom:250px ;
+}
+
+img {
+margin-top: -12%;
+
+
+}
